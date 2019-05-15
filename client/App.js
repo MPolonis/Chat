@@ -53,10 +53,10 @@ class App extends Component {
 				<div className={styles.AppHeader}>
 					<div className={styles.AppTitle}>
 						ChatApp
-			   </div>
+			        </div>
 					<div className={styles.AppRoom}>
 						App room
-			   </div>
+			        </div>
 				</div>
 				<div className={styles.AppBody}>
 					<UsersList
